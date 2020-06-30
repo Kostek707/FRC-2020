@@ -1,2 +1,3 @@
-# FRC-2020
-Computer vision for target detection and distance calculation as well as polynomial regression for adjusting shooters angle.
+# Black Raven
+
+Team RaByte's debut 2020 robot source code
